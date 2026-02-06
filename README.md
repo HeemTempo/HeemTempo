@@ -1,227 +1,130 @@
-# 👋 Hi, I'm **RAHIM RAMADHANI** (HeemTempo)
-
-<div align="center">
-  
-  **🚀 Software Developer | Django • Laravel • Flutter Specialist**
-  
-  *BSc Information Systems Management Graduate | Available for Freelance Projects*
-  
-  [![GitHub followers](https://img.shields.io/github/followers/HeemTempo?style=social)](https://github.com/HeemTempo)
-  [![GitHub stars](https://img.shields.io/github/stars/HeemTempo?style=social)](https://github.com/HeemTempo)
-  
-  ### 💼 **OPEN TO WORK** | Freelance & Full-Time Opportunities
-  
-</div>
-
----
-
-## 🎯 What I Do
-
-<div align="left">
-  
-🏥 **Building management systems** for hospitals, schools, and businesses  
-💻 **Developing scalable backend APIs** with Django & Laravel  
-📱 **Creating cross-platform mobile apps** with Flutter  
-🌐 **Designing modern web applications** with React.js, Vue.js & shadcn/ui  
-🎨 **Building responsive user interfaces** with TailwindCSS  
-🔧 **Solving real-world problems** through efficient software solutions
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Expertise
-
 <div align="center">
 
-### **Backend Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+# Hi there, I'm Rahim Ramadhani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Full-Stack Developer | Backend & Mobile Enthusiast
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+*BSc Information Systems Management Graduate (2025)*
 
-### **Database & Tools**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="mailto:Emramadhani12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/RahimHamisi/Personal_Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=RahimHamisi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
 ---
 
-## 💼 Freelance Services
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> What I'm Building
 
-<div align="left">
-
-### **What I Can Build For You:**
-
-✅ **Custom Web Applications** - Django & Laravel backend + React.js frontend  
-✅ **Modern UI/UX Interfaces** - React.js & Vue.js with shadcn/ui components  
-✅ **Mobile Applications** - Cross-platform Flutter apps (iOS & Android)  
-✅ **Management Systems** - Hospital, School, Inventory, and Business systems  
-✅ **REST APIs & GraphQL** - Scalable backend APIs for your applications  
-✅ **Responsive Websites** - TailwindCSS & modern design principles  
-✅ **Database Design** - PostgreSQL & SQLite optimization  
-✅ **Bug Fixes & Maintenance** - Quick turnaround for existing projects  
-
-### **Why Work With Me:**
-- ⚡ Fast delivery and clear communication
-- 💡 Creative problem-solving approach
-- 🎯 Focus on user-friendly, efficient solutions
-- 📱 Responsive and available throughout project lifecycle
-- 🇹🇿 Based in Dar es Salaam, Tanzania
-
-</div>
+```javascript
+const skills = {
+    backend: ["Node.js", "Express.js", "Django", "Laravel", "GraphQL"],
+    frontend: ["React.js", "Vue.js", "TypeScript", "TailwindCSS"],
+    mobile: ["Flutter", "Dart"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    tools: ["Docker", "Git", "Linux"]
+};
+```
 
 ---
 
-## 🚀 Upcoming Projects (Learning & Building)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
-<div align="left">
-
-### **Django Learning Projects:**
-
-#### 📝 1. Todo App with Django REST API
-Simple task management system to master Django basics
-- User authentication & authorization
-- CRUD operations (Create, Read, Update, Delete)
-- REST API endpoints
-- PostgreSQL database integration
-
-#### 🛒 2. E-Commerce API
-Build a complete backend for online shopping
-- Product catalog management
-- Shopping cart functionality
-- Order processing system
-- Payment integration concepts
-
-#### 📚 3. Blog Platform
-Content management system with Django
-- Post creation & editing
-- Comment system
-- User profiles
-- Search & filtering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,graphql" />
+  <img src="https://skillicons.dev/icons?i=react,vue,typescript,javascript,tailwind" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+</p>
 
 ---
 
-### **React.js + Django Full-Stack Projects:**
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
 
-#### 💼 4. Task Manager (React + Django)
-Complete task management application
-- **Frontend:** React.js with shadcn/ui components
-- **Backend:** Django REST API
-- Real-time updates
-- User authentication
-- Responsive design with TailwindCSS
-
-#### 🏪 5. Inventory Management System
-Simple stock tracking application
-- **Frontend:** React.js dashboard
-- **Backend:** Django API
-- Product CRUD operations
-- Reports & analytics
-- Search & filter functionality
-
-#### 💬 6. Chat Application
-Real-time messaging platform
-- **Frontend:** React.js interface
-- **Backend:** Django with WebSockets
-- User-to-user messaging
-- Group chats
-- Online status indicators
+- 🎓 Recent Graduate (2025) with BSc in Information Systems Management
+- 💻 Full-stack developer specializing in backend systems and RESTful APIs
+- 🌱 Currently expanding expertise in MERN stack and Docker containerization
+- 💡 Passionate about writing clean, maintainable code
+- 🎯 Open to opportunities in full-stack and backend development
 
 ---
 
-### **Why These Projects?**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently Learning
 
-✅ **Simple & Practical** - Real-world applications  
-✅ **Learning Focused** - Each project teaches specific concepts  
-✅ **Portfolio Building** - Showcase to potential clients  
-✅ **Full-Stack Skills** - Frontend + Backend integration  
-✅ **Step-by-Step Growth** - From basic to advanced features
-
-</div>
-
----
-
-## 💫 About Me
-
-<div align="left">
-
-🎓 **Fresh Graduate** - BSc Information Systems Management from Ardhi University (2025)
-
-💼 **Software Development Trainee** at e-Government Research, Innovation and Development Centre (Jul - Oct 2024)
-
-🌍 **Based in Dar es Salaam, Tanzania** - Available for remote & on-site projects
-
-🚀 **Passionate about** creating efficient, user-friendly software solutions that solve real-world problems
-
-📚 **Continuously learning** and staying updated with latest technology trends
-
-🤝 **Team player** with experience in agile development and cross-functional collaboration
-
-</div>
+```yaml
+Focus Areas:
+  - MERN Stack: MongoDB, Express.js, React.js, Node.js
+  - Docker: Containerization and deployment
+  - JavaScript/TypeScript: Advanced concepts and patterns
+  - API Development: RESTful and GraphQL APIs
+  - Database Design: MongoDB and PostgreSQL optimization
+```
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-![Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeemTempo&show_icons=true&theme=radical)
+### OpenSpace Application
+[![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/HeemTempo/v2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeemTempo&layout=compact&theme=radical)
+A comprehensive cross-platform mobile application for public open space conservation, enabling communities to report, track, and manage conservation efforts for public spaces.
 
-</div>
+**Tech:** Flutter, Dart
+
+**Key Features:**
+- 🌍 Multilingual support (i18n implementation)
+- 📱 Cross-platform (iOS & Android)
+- 🌳 Conservation reporting and tracking
+- 🗺️ Interactive maps for public spaces
+- 🔒 Secure user authentication
+
+</td>
+<td width="50%">
+
+### UPCOMING PROJECT
+[![](https://img.shields.io/badge/Coming_Soon-000000?style=for-the-badge)](https://github.com/RahimHamisi)
+
+Building something amazing with MERN stack
+
+**Tech:** MongoDB, Express, React,Tailwindcss, Node.js
+
+**Features:**
+- RESTful API
+- Modern UI
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect & Work Together!
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahimHamisi&theme=tokyonight" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emramadhani12@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255781403233)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahim-ramadhani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://rahimresume.netlify.app/)
-
-**📧 Email:** emramadhani12@gmail.com  
-**📱 Phone:** +255 781 403 233 | +255 750 666 252
-**💬 WhatsApp:** [Message Me](https://wa.me/255781403233)  
-**📍 Location:** Dar es Salaam, Tanzania
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahimHamisi&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahimHamisi&theme=tokyonight" />
+</p>
 
 ---
 
 <div align="center">
-  
-### 💼 **Available for Freelance Projects | Quick Turnaround | Competitive Rates**
-
-### 🚀 *"Building solutions that matter. One project at a time."*
-
-**⭐ Need a developer? Let's discuss your project!**
-
-*Looking for Django, Laravel, or Flutter development? I'm here to help bring your ideas to life.* 🌟
 
 ---
 
-**🎓 December 2025 Graduate | Ready to take on challenging projects**
+### Show some ❤️ by starring some of the repositories!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
