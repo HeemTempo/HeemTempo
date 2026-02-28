@@ -8,11 +8,10 @@
 
 <p align="center">
   <a href="mailto:Emramadhani12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/RahimHamisi/Personal_Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/heemTempo"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=RahimHamisi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=heemTempo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
