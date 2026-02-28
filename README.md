@@ -35,8 +35,8 @@ const skills = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,springboot,laravel,graphql" />
-  <img src="https://skillicons.dev/icons?i=react,vue,typescript,javascript,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,laravel,graphql" />
+ <img src="https://skillicons.dev/icons?i=react,vue,typescript,javascript,tailwind" />
   <img src="https://skillicons.dev/icons?i=flutter,dart,mongodb,postgres,mysql" />
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
