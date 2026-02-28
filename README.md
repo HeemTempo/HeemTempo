@@ -22,7 +22,7 @@
 
 ```javascript
 const skills = {
-    backend: ["Node.js", "Express.js", "Django","Spring Boot", "Laravel", "GraphQL"],
+    backend: ["Node.js", "Express.js", "Django","Spring Boot", "GraphQL"],
     frontend: ["React.js", "Vue.js", "TypeScript", "TailwindCSS"],
     mobile: ["Flutter", "Dart"],
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
@@ -35,7 +35,7 @@ const skills = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,laravel,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,graphql" />
  <img src="https://skillicons.dev/icons?i=react,vue,typescript,javascript,tailwind" />
   <img src="https://skillicons.dev/icons?i=flutter,dart,mongodb,postgres,mysql" />
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
@@ -80,11 +80,11 @@ A comprehensive cross-platform mobile application for public open space conserva
 **Tech:** Flutter, Dart
 
 **Key Features:**
-- 🌍 Multilingual support (i18n implementation)
-- 📱 Cross-platform (iOS & Android)
-- 🌳 Conservation reporting and tracking
-- 🗺️ Interactive maps for public spaces
-- 🔒 Secure user authentication
+-  Multilingual support (i18n implementation)
+- Cross-platform (iOS & Android)
+- Conservation reporting and tracking
+-  Interactive maps for public spaces
+- Secure user authentication
 
 The link for testing and seeing the mobile application user interface is.  https://openspace-apk.netlify.app/
 
@@ -111,12 +111,12 @@ Building something amazing with MERN stack
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahimHamisi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heemTempo&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahimHamisi&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahimHamisi&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heemTempo&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heemTempo&theme=tokyonight" />
 </p>
 
 ---
