@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="mailto:Emramadhani12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/heemTempo"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=heemTempo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
