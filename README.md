@@ -45,11 +45,11 @@ const skills = {
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
 
-- 🎓 Recent Graduate (2025) with BSc in Information Systems Management
-- 💻 Full-stack developer specializing in backend systems and RESTful APIs
-- 🌱 Currently expanding expertise in MERN stack and Docker containerization
-- 💡 Passionate about writing clean, maintainable code
-- 🎯 Open to opportunities in full-stack and backend development
+- Recent Graduate (2025) with BSc in Information Systems Management
+-  Full-stack developer specializing in backend systems and RESTful APIs also developing cross platform mobile applications and developing user friendly interface(frontend)
+- Currently expanding expertise in MERN stack,Spring Boot Concept and Docker containerization
+-  Passionate about writing clean, maintainable code
+-  Open to opportunities in full-stack and backend development
 
 ---
 
@@ -86,6 +86,8 @@ A comprehensive cross-platform mobile application for public open space conserva
 - 🗺️ Interactive maps for public spaces
 - 🔒 Secure user authentication
 
+The link for testing and seeing the mobile application user interface is.  https://openspace-apk.netlify.app/
+
 </td>
 <td width="50%">
 
@@ -94,7 +96,7 @@ A comprehensive cross-platform mobile application for public open space conserva
 
 Building something amazing with MERN stack
 
-**Tech:** MongoDB, Express, React,Tailwindcss, Node.js
+**Tech:** MongoDB, Express, React,Tailwindcss, Node.js ,Spring Boot ,Vue
 
 **Features:**
 - RESTful API
@@ -121,9 +123,6 @@ Building something amazing with MERN stack
 
 <div align="center">
 
----
-
-### Show some ❤️ by starring some of the repositories!
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
