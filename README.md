@@ -84,7 +84,7 @@ A comprehensive cross-platform mobile application for public open space conserva
 -  Interactive maps for public spaces
 - Secure user authentication
 
-The link for testing and seeing the mobile application user interface is.  https://openspace-apk.netlify.app/
+The link for testing and seeing the mobile application user interface is.  https://kinondoni.ubunix.co.tz/
 
 </td>
 <td width="50%">
